@@ -1,4 +1,4 @@
-# SSH keypair setup for GitHub (or GitHub/GitLab/BitBucket, etc, etc)
+# SSH keypair setup for GitHub
 
 
 ## Create your repository.
